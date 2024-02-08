@@ -1,6 +1,6 @@
-# Your Name's Portfolio
+# Muralidharan's Portfolio
 
-Welcome to my GitHub portfolio! This repository showcases some of the projects I've worked on, demonstrating my skills and interests in various technologies. Feel free to explore, and don't hesitate to reach out if you have any questions or feedback.
+Welcome to my portfolio! This repository showcases some of the projects I've worked on, demonstrating my skills and interests in various technologies. Feel free to explore, and don't hesitate to reach out if you have any questions or feedback.
 
 ## Table of Contents
 - [Projects](#projects)
@@ -29,9 +29,9 @@ Welcome to my GitHub portfolio! This repository showcases some of the projects I
 
 ## Technologies
 
-- List of programming languages (e.g., JavaScript, Python)
+- List of programming languages (e.g., JavaScript, Python, java)
 - Frameworks and libraries (e.g., React, Flask)
-- Databases (e.g., MongoDB, PostgreSQL)
+- Databases (e.g., JDBC, MySQL)
 - Other tools and technologies (e.g., Git, Docker)
 
 ## Usage
@@ -47,8 +47,7 @@ If you find any issues or have suggestions for improvement, feel free to open an
 
 ## Contact
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: ammurali2k1@gmail.com
+- LinkedIn: http://www.linkedin.com/in/muralidharanm28
 
 Thank you for visiting my GitHub portfolio! 🚀
