@@ -19,16 +19,16 @@ The detection modules utilize a rating mechanism based on different detection te
 
 The analysis and public extracted information from this OSINT tool could help investigate profiles related to suspicious or malicious activities such as cyberbullying, cyber grooming, cyberstalking, and spreading misinformation..
 
-*Technologies:* List of technologies and tools used in the project.
+*Technologies:* DuckDuckGo API, Google API, NodeJS, bootstrap, selectize, jQuery, Wikipedia, font-awesome, selenium-webdriver & tesseract.js.
 
-*Link:* [Project Name](link-to-project)
+*Link:* [profile-analysis-using-OSINT-framework]([link-to-project](https://github.com/Muralidharan-Devlop/profile-analysis-using-OSINT-framework))
 
 ### Project 2: student_management_system
 *Description:* Maintaining a Database of the Students from the School/College #Creating a GitHub README for a Student Management System (SMS) project in Java can provide potential contributors and users with an overview of the project, its features, and how to get started with it. Here's a template you can use.
 
-*Technologies:* Java.
+*Technologies:* Java , MySQL, Maven Dependencies.
 
-*Link:* [Project Name](link-to-project)
+*Link:* [student_management_system]([link-to-project](https://github.com/Muralidharan-Devlop/student_management_system))
 
 <!-- Add more projects as needed -->
 
