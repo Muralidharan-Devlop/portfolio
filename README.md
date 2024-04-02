@@ -11,17 +11,22 @@ Welcome to my portfolio! This repository showcases some of the projects I've wor
 
 ## Projects
 
-### Project 1: Project Name
-*Description:* Brief description of the project, highlighting its purpose and key features.
+### Project 1: profile-analysis-using-OSINT-framework
+
+*Description:* Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across +1000 social media \ websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process.
+
+The detection modules utilize a rating mechanism based on different detection techniques, which produces a rate value that starts from 0 to 100 (No-Maybe-Yes). This module is intended to have fewer false positives.
+
+The analysis and public extracted information from this OSINT tool could help investigate profiles related to suspicious or malicious activities such as cyberbullying, cyber grooming, cyberstalking, and spreading misinformation..
 
 *Technologies:* List of technologies and tools used in the project.
 
 *Link:* [Project Name](link-to-project)
 
-### Project 2: Project Name
-*Description:* Brief description of the project, highlighting its purpose and key features.
+### Project 2: student_management_system
+*Description:* Maintaining a Database of the Students from the School/College #Creating a GitHub README for a Student Management System (SMS) project in Java can provide potential contributors and users with an overview of the project, its features, and how to get started with it. Here's a template you can use.
 
-*Technologies:* List of technologies and tools used in the project.
+*Technologies:* Java.
 
 *Link:* [Project Name](link-to-project)
 
